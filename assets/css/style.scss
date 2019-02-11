@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a:hover, a:focus {
+  font-weight:normal;
+  background-color:#03A9F4;
+  transition: all 0.5s;
+}
+a {  transition: all 0.5s; }
