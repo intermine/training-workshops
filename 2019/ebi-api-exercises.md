@@ -38,3 +38,9 @@ Once you have python installed:
     - You can try the next step *without* making the script executable to see what happens if you like. It'll probably give you an error.
 8. Right, time to run the script: type `./query.py`. You should see the results of your query printed to the screen! If it looks a little odd, make the terminal wider and run it again the same way. 
     - `./some-file-name-here` - the `./` means "execute this script, please". 
+   
+### Local python scripts - some tips
+
+- **Better reproducibility & tweakability** - The nice bit about running analyses like this is they're easy to tweak or reproduce in the future. Want the same query, but for a different organism or different gene? Open the downloaded script in a text editor and change that gene name, then save and re-run the results. Ta-da! 
+- **Saving results to a text file** If you want to save your results to a text file, add `> results.txt` to the end of the command. It'll now look something like this: `./query.py > results.txt`. You won't see the results in the terminal this time, but your query results should now be in the downloads folder, inside the file named results.txt!
+    - Breakdown: `>` means "please output results to", and results.txt could be any file name you like - you're just asking your script to save results to a file with the name you specified. 
