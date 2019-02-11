@@ -1,6 +1,7 @@
 ### Useful Links
 
 - [API slides](https://docs.google.com/presentation/d/1nbwXuD5dInFnKoS96unueE5msapB9eUBE8B1phN_buo/edit?usp=sharing)
+- [API Exercises](api-exercises)
 - [Python tutorial](https://github.com/intermine/intermine-ws-python-docs)
 - [Python API docs](http://intermine.org/intermine-ws-python/intermine.html)
 
