@@ -2,13 +2,17 @@
 title: API Exercises - follow along
 ---
 
+## Table of Contents 
+{:.no_toc}
+
 1. Table of Contents
 {:toc}
 
-## Getting started - tell us what you know...
+## Poll - what language(s) do you use, if any? 
 
-- What languages do you use as part of your work? [Poll](http://www.polljunkie.com/poll/bqbbio/what-languages-do-you-use-in-your-work) (closes 14 feb 2019) - "none" is an acceptable answer! 😁
-- [Results](http://www.polljunkie.com/poll/iwsyox/what-languages-do-you-use-in-your-work/view)
+Getting started - what languages do you use as part of your work? 
+- [Please take 20 seconds to vote in this poll](http://www.polljunkie.com/poll/bqbbio/what-languages-do-you-use-in-your-work) (closes 14 feb 2019) - "none" is an acceptable answer! 
+- [Poll results](http://www.polljunkie.com/poll/iwsyox/what-languages-do-you-use-in-your-work/view)
 
 ## Downloading and running code from the InterMine results tables
 
