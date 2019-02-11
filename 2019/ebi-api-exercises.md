@@ -1,6 +1,7 @@
-# API exercises
-
-
+---
+layout: page
+title: API Exercises - follow along
+---
 
 <script type="text/javascript" src="http://www.polljunkie.com/Scripts/embedder.js?v=1"></script>
 <script type="text/javascript">
