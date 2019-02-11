@@ -44,3 +44,14 @@ Once you have python installed:
 - **Better reproducibility & tweakability** - The nice bit about running analyses like this is they're easy to tweak or reproduce in the future. Want the same query, but for a different organism or different gene? Open the downloaded script in a text editor and change that gene name, then save and re-run the results. Ta-da! 
 - **Saving results to a text file** If you want to save your results to a text file, add `> results.txt` to the end of the command. It'll now look something like this: `./query.py > results.txt`. You won't see the results in the terminal this time, but your query results should now be in the downloads folder, inside the file named results.txt!
     - Breakdown: `>` means "please output results to", and results.txt could be any file name you like - you're just asking your script to save results to a file with the name you specified. 
+
+## Step-by-step analysis workflow
+
+We'll step through a workflow similar to the one we did earlier, only this time the analysis is done in code, rather than on HumanMine directly.
+
+Exercise without answers (try this one first): 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=Workshop_Pax6Workflow.ipynb)
+
+Exercise *with* answers (good to peek if you're stuck): 
+//TODO - YO TO ADD
+
