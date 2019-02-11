@@ -2,6 +2,8 @@
 title: API Exercises - follow along
 ---
 
+{:toc}
+
 ## Getting started - tell us what you know...
 
 - What languages do you use as part of your work? [Poll](http://www.polljunkie.com/poll/bqbbio/what-languages-do-you-use-in-your-work) (closes 14 feb 2019) - "none" is an acceptable answer! 😁
