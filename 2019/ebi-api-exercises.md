@@ -2,6 +2,7 @@
 title: API Exercises - follow along
 ---
 
+1. Table of Contents
 {:toc}
 
 ## Getting started - tell us what you know...
