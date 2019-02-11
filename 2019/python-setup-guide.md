@@ -2,6 +2,8 @@
 
 ## Option 1 - install your own... 
 
+For these instructions to work, you'll need a linux or mac machine. If you're running windows, we'd suggest you use [Option 2 - Jupyter notebooks](option-2---fallback---jupyter-notebooks--binder).
+
 ### Python
 
 _Compatability note: InterMine currently automatically generates Python 2.7 compliant code (3 is in the works!). For this reason we recommend python 2.7, although the client does support python 3._
