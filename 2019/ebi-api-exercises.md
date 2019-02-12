@@ -53,5 +53,5 @@ Exercise without answers (try this one first):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=Workshop_Pax6Workflow.ipynb)
 
 Exercise *with* answers (good to peek if you're stuck): 
-//TODO - YO TO ADD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yochannah/intermine-ws-python-docs/ebi-2019?filepath=unsolved-exercises%2FWorkshop_Pax6Workflow.ipynb)
 
