@@ -30,7 +30,7 @@ Exercise *with* answers (good to peek if you're stuck):
 
 ## Exercises: Further practice
 
-Our [python tutorial series] provides walkthroughs for most common InterMine operations. Try working through these tutorials:
+Our [python tutorial series](https://github.com/intermine/intermine-ws-python-docs#intermine-ws-python-docs) provides walkthroughs for most common InterMine operations. Try working through these tutorials:
 
 - Tutorial 1:  The basics of a query
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=unsolved-exercises%2F01-tutorial.ipynb) (exercise)
@@ -39,7 +39,6 @@ Our [python tutorial series] provides walkthroughs for most common InterMine ope
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=unsolved-exercises%2F02-tutorial.ipynb)  (exercise)
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=02-tutorial.ipynb) (with completed answers)
 - Tutorial 5:  Query results
-[Dealing with results of your query.](05-tutorial.ipynb)
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=unsolved-exercises%2F05-tutorial.ipynb) (exercise)
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=05-tutorial.ipynb) (with completed answers)
 - Tutorial 7:  Templates
