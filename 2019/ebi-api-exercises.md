@@ -23,10 +23,11 @@ We'll demo this live on the day, but if you'd like to try this at home or on a w
 We'll step through a workflow similar to the one we did earlier, only this time the analysis is done in code, rather than on HumanMine directly.
 
 Exercise without answers (try this one first): 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=Workshop_Pax6Workflow.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=unsolved-exercises%2FWorkshop_Pax6Workflow.ipynb)
 
 Exercise *with* answers (good to peek if you're stuck): 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=unsolved-exercises%2FWorkshop_Pax6Workflow.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=Workshop_Pax6Workflow.ipynb)
+
 
 ## Exercises: Further practice
 
