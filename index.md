@@ -8,7 +8,7 @@ Listed in chronological order, with newer/upcoming courses at the top.
     - **Registration and course info:**
       - [Biological data analysis using InterMine (User Interface)](https://training.csx.cam.ac.uk/bioinformatics/event/2874533)
       - [Biological data analysis using the InterMine API ](https://training.csx.cam.ac.uk/bioinformatics/event/2876900)
-    - **[Course Materials](2019-06-19-genetics)**
+    - **[Course Materials](2019/2019-06-19-genetics)**
 - February 13 - [EBI Multiomics Data Integration](2019/ebi-multiomics)
 
 ## 2018
