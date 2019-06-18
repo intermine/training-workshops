@@ -4,13 +4,7 @@ Listed in chronological order, with newer/upcoming courses at the top.
 
 ## 2019
 
-- June 19 - Two-part course at Cambridge. You can register for one or both of these modules, but we would recommend that people who are interested in the API module also attend the morning module, unless you are already familiar with InterMine's interface.
-    - **Course info:**
-      - Morning - [Biological data analysis using InterMine (User Interface)](https://training.csx.cam.ac.uk/bioinformatics/event/2874533)
-      - Afternoon - [Biological data analysis using the InterMine API ](https://training.csx.cam.ac.uk/bioinformatics/event/2876900)
-    - **Course Materials**
-      - Morning - [User Interface training materials](2019/2019-06-19-genetics-ui)
-      - Afternoon - [API training materials](2019/2019-06-19-genetics-api)
+- June 19 - [UI + API training courses at Cambridge Bioinformatics Training Facility](2019/2019-06-19-genetics-overview)
 - February 13 - [EBI Multiomics Data Integration](2019/ebi-multiomics)
 
 ## 2018
