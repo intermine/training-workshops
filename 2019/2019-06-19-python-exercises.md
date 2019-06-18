@@ -8,12 +8,6 @@ title: API Exercises - follow along
 1. Table of Contents
 {:toc}
 
-## Poll - what language(s) do you use, if any?
-
-Getting started - what languages do you use as part of your work?
-- [Please take 20 seconds to vote in this poll](http://www.polljunkie.com/poll/ancsnq/what-languages-do-you-use-in-your-work) (closes 20 June 2019) - "none" is an acceptable answer!
-- [Poll results](http://www.polljunkie.com/poll/ezzzmg/what-languages-do-you-use-in-your-work/view)
-
 ## Demo: Downloading and running code from the InterMine results tables
 
 We'll demo this live on the day, but if you'd like to try this at home or on a work computer, you can follow our [step-by-step guide to running an InterMine python script on your own computer](running-a-python-script-locally) (as opposed to running it in a Jupyter notebook, which we'll see next).
