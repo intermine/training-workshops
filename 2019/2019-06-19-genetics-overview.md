@@ -7,5 +7,5 @@ This is a two-part course at Cambridge. You can register for one or both of thes
 - Afternoon - [Biological data analysis using the InterMine API ](https://training.csx.cam.ac.uk/bioinformatics/event/2876900)
 
 ### Course Materials
-- Morning - [User Interface training materials](22019-06-19-genetics-ui)
+- Morning - [User Interface training materials](2019-06-19-genetics-ui)
 - Afternoon - [API training materials](2019-06-19-genetics-api)            
