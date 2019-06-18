@@ -2,7 +2,7 @@
 
 ### Schedule
 
-- **13:30** Introduction - what is an API and why might we use one? [API slides](https://docs.google.com/presentation/d/1nbwXuD5dInFnKoS96unueE5msapB9eUBE8B1phN_buo/edit?usp=sharing)
+- **13:30** Introduction - what is an API and why might we use one? [API slides](https://docs.google.com/presentation/d/1qCEJIGdF4MH7B4-xGHy1vaq3xZOy72Oat4CvoGp1fos/edit?usp=sharing)
 - **14:00** 🐍 Hands-on code along in Python (PAX6 Workflow):
   - Python Pax6 Workflow (unsolved): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=unsolved-exercises%2FWorkshop_Pax6Workflow.ipynb)
   - Python Pax6 Workflow (with answers): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=Workshop_Pax6Workflow.ipynb)
