@@ -4,6 +4,7 @@ Listed in chronological order, with newer/upcoming courses at the top.
 
 ## 2019
 
+- July 4 - [Handling integrated biological data using Python, Jupyter, and InterMine](2019/2019-07-04-gcc-overview)
 - June 19 - [UI + API training courses at Cambridge Bioinformatics Training Facility](2019/2019-06-19-genetics-overview)
 - February 13 - [EBI Multiomics Data Integration](2019/ebi-multiomics)
 
