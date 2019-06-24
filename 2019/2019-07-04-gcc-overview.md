@@ -25,9 +25,9 @@ Short link to this page: bit.ly/intermine-gcc2019
   - 🇷 R Pax6 Workflow (same results as the Python workflow, but in R)
     - R Pax6 Workflow (unsolved) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Workshop%20Workflow%20PAX6-unsolved.ipynb)
     - R Pax6 Workflow (with answers) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Workshop%20Workflow%20PAX6.ipynb)
-    - 🇷 Advanced exercises: producing figures and data visualisations
-      - Enrichment and visualisations (unsolved): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Enrichment%20Analysis%20and%20Visualisations-unsolved.ipynb)
-      - Enrichment and visualisations (with answers): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Enrichment%20Analysis%20and%20Visualisations.ipynb)
+  - 🇷 Advanced exercises: producing figures and data visualisations
+    - Enrichment and visualisations (unsolved): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Enrichment%20Analysis%20and%20Visualisations-unsolved.ipynb)
+    - Enrichment and visualisations (with answers): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Enrichment%20Analysis%20and%20Visualisations.ipynb)
   - 🇷 or 🐍: Replicate some of the exercises we've run today on your favourite organism or favourite genes / proteins. We can help walk you through it and troubleshoot where needed.
 
 ### Useful links
