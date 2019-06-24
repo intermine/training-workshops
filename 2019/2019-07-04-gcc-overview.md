@@ -1,12 +1,11 @@
 # Handling integrated biological data using Python, Jupyter, and InterMine
 
-## July 4 2019
+## Galaxy Community Conference July 4 2019
 
 Short link to this page: bit.ly/intermine-gcc2019
 
 ### Course Materials
 
-## Genetics InterMine API Training 2019-06-19
 
 ### Schedule
 
