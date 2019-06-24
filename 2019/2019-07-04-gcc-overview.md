@@ -10,11 +10,13 @@ Short link to this page: bit.ly/intermine-gcc2019
 
 ### Schedule
 
-- Introduction - what is an API and why might we use one?
-  - [API slides](https://docs.google.com/presentation/d/1qCEJIGdF4MH7B4-xGHy1vaq3xZOy72Oat4CvoGp1fos/edit?usp=sharing)
-  - Poll: What programming language(s) do you use as part of work, if any?
-    - [Please take 20 seconds to vote in this poll](http://www.polljunkie.com/poll/ancsnq/what-languages-do-you-use-in-your-work) (closes 20 June 2019) - "none" is an acceptable answer!
-    - [Poll results](http://www.polljunkie.com/poll/ezzzmg/what-languages-do-you-use-in-your-work/view)
+- Introduction
+  - What is InterMine? Intro to the User Interface.
+  - What is an API and why might we use one?
+    - [API slides](https://docs.google.com/presentation/d/1qCEJIGdF4MH7B4-xGHy1vaq3xZOy72Oat4CvoGp1fos/edit?usp=sharing)
+      - Poll: What programming language(s) do you use as part of work, if any?
+        - [Please take 20 seconds to vote in this poll](http://www.polljunkie.com/poll/mferex/what-languages-do-you-use-in-your-work) (closes 05 July 2019) - "none" is an acceptable answer!
+        - [Poll results](http://www.polljunkie.com/poll/oacgmb/what-languages-do-you-use-in-your-work/view)
 - 🐍 Hands-on code along in Python (PAX6 Workflow):
   - Python Pax6 Workflow (unsolved): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=unsolved-exercises%2FWorkshop_Pax6Workflow.ipynb)
   - Python Pax6 Workflow (with answers): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=Workshop_Pax6Workflow.ipynb)
@@ -23,7 +25,7 @@ Short link to this page: bit.ly/intermine-gcc2019
   - 🇷 R Pax6 Workflow (same results as the Python workflow, but in R)
     - R Pax6 Workflow (unsolved) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Workshop%20Workflow%20PAX6-unsolved.ipynb)
     - R Pax6 Workflow (with answers) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Workshop%20Workflow%20PAX6.ipynb)
-    -🇷 Advanced exercises: producing figures and data visualisations
+    - 🇷 Advanced exercises: producing figures and data visualisations
       - Enrichment and visualisations (unsolved): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Enrichment%20Analysis%20and%20Visualisations-unsolved.ipynb)
       - Enrichment and visualisations (with answers): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Enrichment%20Analysis%20and%20Visualisations.ipynb)
   - 🇷 or 🐍: Replicate some of the exercises we've run today on your favourite organism or favourite genes / proteins. We can help walk you through it and troubleshoot where needed.
