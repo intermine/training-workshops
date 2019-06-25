@@ -9,14 +9,14 @@ Short link to this page: bit.ly/intermine-gcc2019
 
 ### Schedule
 
-- Introduction
-  - What is InterMine? Intro to the User Interface.
-  - What is an API and why might we use one?
+- **15:50** Introduction: What is InterMine? Intro to the User Interface.
+- **16:05** Moving between Galaxy and InterMine
+- **16:30** APIs: What is an API and why might we use one?
     - [API slides](https://docs.google.com/presentation/d/1qCEJIGdF4MH7B4-xGHy1vaq3xZOy72Oat4CvoGp1fos/edit?usp=sharing)
-      - Poll: What programming language(s) do you use as part of work, if any?
-        - [Please take 20 seconds to vote in this poll](http://www.polljunkie.com/poll/mferex/what-languages-do-you-use-in-your-work) (closes 05 July 2019) - "none" is an acceptable answer!
-        - [Poll results](http://www.polljunkie.com/poll/oacgmb/what-languages-do-you-use-in-your-work/view)
-- 🐍 Hands-on code along in Python (PAX6 Workflow):
+    - Poll: What programming language(s) do you use as part of work, if any?
+      - [Please take 20 seconds to vote in this poll](http://www.polljunkie.com/poll/mferex/what-languages-do-you-use-in-your-work) (closes 05 July 2019) - "none" is an acceptable answer!
+      - [Poll results](http://www.polljunkie.com/poll/oacgmb/what-languages-do-you-use-in-your-work/view)
+- **16:45** 🐍 Hands-on code along in Python (PAX6 Workflow):
   - Python Pax6 Workflow (unsolved): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=unsolved-exercises%2FWorkshop_Pax6Workflow.ipynb)
   - Python Pax6 Workflow (with answers): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=Workshop_Pax6Workflow.ipynb)
 - Self-learn exercises - use cases and questions. Your choice of:
@@ -27,7 +27,7 @@ Short link to this page: bit.ly/intermine-gcc2019
   - 🇷 Advanced exercises: producing figures and data visualisations
     - Enrichment and visualisations (unsolved): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Enrichment%20Analysis%20and%20Visualisations-unsolved.ipynb)
     - Enrichment and visualisations (with answers): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Enrichment%20Analysis%20and%20Visualisations.ipynb)
-  - 🇷 or 🐍: Replicate some of the exercises we've run today on your favourite organism or favourite genes / proteins. We can help walk you through it and troubleshoot where needed.
+  - 🐍 or 🇷: Replicate some of the exercises we've run today on your favourite organism or favourite genes / proteins. We can help walk you through it and troubleshoot where needed.
 
 ### Useful links
 #### 🐍 Python
