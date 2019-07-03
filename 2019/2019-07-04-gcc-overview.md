@@ -7,8 +7,7 @@ Short link to this page: `bit.ly/intermine-gcc2019`
 ### Schedule and materals
 
 - **15:50** Introduction: What is InterMine? Intro to the User Interface. [Slides](https://docs.google.com/presentation/d/1DaBkpUPoHEK-_iXD2IKU9QxDX7HAGe1zkXs09pF0Y8c/edit?usp=sharing)
-- **16:05** Moving data between Galaxy and InterMine
-- **16:30** APIs: What is an API and why might we use one?
+- **16:00** APIs: What is an API and why might we use one?
     - [API slides](https://docs.google.com/presentation/d/1Q19fAI0F0Uy9znAmc49GxDe3hdwsrUCG2oz9JgByLuA/edit?usp=sharing)
     - Poll: What programming language(s) do you use as part of work, if any?
       - [Please take 20 seconds to vote in this poll](http://www.polljunkie.com/poll/mferex/what-languages-do-you-use-in-your-work) (closes 05 July 2019) - "none" is an acceptable answer!
@@ -25,6 +24,8 @@ Short link to this page: `bit.ly/intermine-gcc2019`
     - Enrichment and visualisations (unsolved): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Enrichment%20Analysis%20and%20Visualisations-unsolved.ipynb)
     - Enrichment and visualisations (with answers): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master?filepath=Enrichment%20Analysis%20and%20Visualisations.ipynb)
   - 🐍 or 🇷: Replicate some of the exercises we've run today on your favourite organism or favourite genes / proteins. We can help walk you through it and troubleshoot where needed.
+- **17:10** [Moving data between Galaxy and InterMine](2019-07-04-gcc-galaxy-intermine-data-exchange)
+
 
 ### Useful links
 #### 🐍 Python
