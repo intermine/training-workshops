@@ -4,13 +4,10 @@
 
 Short link to this page: `bit.ly/intermine-gcc2019`
 
-### Course Materials
-
-
-### Schedule
+### Schedule and materals
 
 - **15:50** Introduction: What is InterMine? Intro to the User Interface. [Slides](https://docs.google.com/presentation/d/1DaBkpUPoHEK-_iXD2IKU9QxDX7HAGe1zkXs09pF0Y8c/edit?usp=sharing)
-- **16:05** Moving between Galaxy and InterMine
+- **16:05** Moving data between Galaxy and InterMine
 - **16:30** APIs: What is an API and why might we use one?
     - [API slides](https://docs.google.com/presentation/d/1Q19fAI0F0Uy9znAmc49GxDe3hdwsrUCG2oz9JgByLuA/edit?usp=sharing)
     - Poll: What programming language(s) do you use as part of work, if any?
