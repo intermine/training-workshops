@@ -9,7 +9,7 @@ Short link to this page: bit.ly/intermine-gcc2019
 
 ### Schedule
 
-- **15:50** Introduction: What is InterMine? Intro to the User Interface.
+- **15:50** Introduction: What is InterMine? Intro to the User Interface. [Slides](https://docs.google.com/presentation/d/1DaBkpUPoHEK-_iXD2IKU9QxDX7HAGe1zkXs09pF0Y8c/edit?usp=sharing)
 - **16:05** Moving between Galaxy and InterMine
 - **16:30** APIs: What is an API and why might we use one?
     - [API slides](https://docs.google.com/presentation/d/1qCEJIGdF4MH7B4-xGHy1vaq3xZOy72Oat4CvoGp1fos/edit?usp=sharing)
