@@ -5,7 +5,7 @@
 - **13:30** Introduction - what is an API and why might we use one? 
   - [API slides](https://docs.google.com/presentation/d/1qCEJIGdF4MH7B4-xGHy1vaq3xZOy72Oat4CvoGp1fos/edit?usp=sharing)
   - Poll: What programming language(s) do you use as part of work, if any? 
-    - [Please take 20 seconds to vote in this poll](http://www.polljunkie.com/poll/esxrmg/handling-integrated-biological-data-using-python-jupyter-and-intermine-sunday-1) (closes 22 July 2020) - "none" is an acceptable answer! http://www.polljunkie.com/poll/aqppcw/what-code-langauges-do-you-use-in-your-work-if-any
+    - [Please take 20 seconds to vote in this poll](http://www.polljunkie.com/poll/ancsnq/what-languages-do-you-use-in-your-work) (closes 20 June 2019) - "none" is an acceptable answer!
     - [Poll results](http://www.polljunkie.com/poll/ezzzmg/what-languages-do-you-use-in-your-work/view)
 - **14:00** 🐍 Hands-on code along in Python (PAX6 Workflow):
   - Python Pax6 Workflow (unsolved): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=unsolved-exercises%2FWorkshop_Pax6Workflow.ipynb)
