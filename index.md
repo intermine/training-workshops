@@ -4,7 +4,9 @@ Listed in chronological order, with newer/upcoming courses at the top.
 
 ## 2020
 
-- November 2020 - [Biological Data Analysis Using InterMine](https://github.com/intermine/training-workshops/tree/master/2020/Genetics)
+- November 2020 - Biological Data Analysis Using InterMine
+                - [Slides](https://github.com/intermine/training-workshops/tree/master/2020/Genetics/Workshop_GeneticsNov2020.pdf)
+                - [Exercsies with answers](https://github.com/intermine/training/workshops/tree/master/2020/Genetics/workshop_exercises_withAnswers_GeneticsNov2020.pdf)
 
 ## 2019
 
