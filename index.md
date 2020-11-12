@@ -4,7 +4,7 @@ Listed in chronological order, with newer/upcoming courses at the top.
 
 ## 2020
 
-- November 2020 - [Biological Data Analysis Using InterMine](https://github.com/intermine/training-workshops/tree/master/2020)
+- November 2020 - [Biological Data Analysis Using InterMine](2019/ebi-multiomics)
 
 ## 2019
 
