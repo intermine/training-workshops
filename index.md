@@ -2,6 +2,10 @@
 
 Listed in chronological order, with newer/upcoming courses at the top.
 
+## 2020
+
+- November 2020 - [Biological Data Analysis Using InterMine] (2020/Genetics)
+
 ## 2019
 
 - July 4 - [Handling integrated biological data using Python, Jupyter, and InterMine](2019/2019-07-04-gcc-overview)
