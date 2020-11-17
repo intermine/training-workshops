@@ -1,11 +1,13 @@
 # Load the InterMine library.  If you don't have it installed, visit the Bioconductor site and follow the instructions for installation.
 
 library(InterMineR)
+listMines()
 
 # We want to query Human data so we will set our R queries up for HumanMine:
 # Remember to add your own token
 
-im <- initInterMine(mine=listMines()["HumanMine"], "j1q44e90S1Q4i6RekaB8")
+im <- initInterMine(mine=listMines()["HumanMine"], "YOUR TOKEN")
+
 
 # We will just run one query to show you the basics of how a query can be constucted in InterMineR.  
 # We will then look at running the Enrcihment widget on a list and visulaising the results from this.
